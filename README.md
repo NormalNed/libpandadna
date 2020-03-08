@@ -32,4 +32,5 @@ Open the [CMakeLists.txt](https://github.com/NormalNed/libpandadna/blob/master/C
 mkdir build
 cd build
 cmake ..
-make```
+make
+```
